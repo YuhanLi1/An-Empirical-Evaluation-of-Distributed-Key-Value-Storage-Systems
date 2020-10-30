@@ -1,0 +1,14 @@
+# Using the data from fset1 and fset2
+# Latency:
+numNodes; performance;
+1, 0.0301[ms/op] 
+2, 0.0584[ms/op]
+4, 0.0698[ms/op]
+8, 0.0908[ms/op]
+
+# Throughput:
+numNodes; performance;
+1, 32794[ops/s]
+2, 38938[ops/s]
+4, 51998[ops/s]
+8, 90099[ops/s]

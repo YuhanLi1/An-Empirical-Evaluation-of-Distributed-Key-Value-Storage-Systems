@@ -1,0 +1,14 @@
+# Using the data from bmset1
+# Latency:
+numNodes; performance;
+1, 0.0334[ms/op] 
+2, 0.0662[ms/op]
+4, 0.0723[ms/op]
+8, 0.0771[ms/op]
+
+# Throughput:
+numNodes; performance;
+1, 24509[ops/s]
+2, 37386[ops/s]
+4, 63338[ops/s]
+8, 115684[ops/s]
