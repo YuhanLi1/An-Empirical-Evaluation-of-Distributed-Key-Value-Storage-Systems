@@ -1,0 +1,4 @@
+port 7000
+appendonly yes
+protected-mode no
+daemonize yes

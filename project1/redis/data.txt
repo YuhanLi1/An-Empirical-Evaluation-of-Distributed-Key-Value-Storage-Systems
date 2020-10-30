@@ -1,0 +1,15 @@
+# one node on localhost
+> Total Throughput of redis 8088.845070117218 OPs/s
+> Total Latency of redis 0.1330636 ms
+
+# two nodes           
+> Total Throughput of redis 8558.355726516053 OPs/s
+> Total Latency of redis 0.2559241 ms
+
+# four nodes
+> Total Throughput of redis 12792.43760284269 OPs/s
+> Total Latency of redis 0.3232227 ms
+
+# eight nodes
+> Total Throughput of redis 22336.69228246464 OPs/s
+> Total Latency of redis 0.3706161 ms
